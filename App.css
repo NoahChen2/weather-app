@@ -1,0 +1,22 @@
+html
+{
+  font-size: 3em;
+}
+.Container
+{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+}
+.currentWeather
+{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  margin: 2rem;
+  font-weight: bold;
+  text-shadow: black .04em .09em;
+  color: white;
+}
